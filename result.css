@@ -1,0 +1,38 @@
+.logo {
+    border-radius: 50%;
+    width: 3rem;
+}
+
+.title {
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+
+.ingredients {
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+
+.description {
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+
+.content {
+    margin-top: 2rem;
+}
+
+.no_result {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.no_result_desc {
+    font-size: 3rem;
+}
+
+.no_style_a {
+    text-decoration: none;
+    cursor: pointer;
+    color: inherit;
+}
